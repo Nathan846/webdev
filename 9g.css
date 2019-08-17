@@ -1,0 +1,8 @@
+h1, h3{text-align:center;}
+table{margin:100px; color:white; height:30px; background-color:black; border-collapse:collapse;}
+td{border:2px solid;  border-spacing:3px; border-color:white; padding-left:20px; padding-right:20px; font-size:25px}
+.head{text-align:top; padding:20px; height:10%; margin:5px; width:50px; left:22%; top:34%; position:absolute; font-size:50px; background-color:green; color:white}
+h2{left:460px; top:300px; font-size:30px; position:absolute;}
+.t{left:460px; top:375px; position:absolute; border:1px; width:140px; font-size:25px; width:200	}
+.p1{ left:360px; top:450px; position:absolute; font-size:30px; width:500px}
+img{width: 13%; top:240px; position:absolute; left:5%; height:55%}

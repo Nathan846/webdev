@@ -1,0 +1,7 @@
+body{background-color:grey}
+img{display:block; position:absolute; top:200px; width:30%; height:auto;  }
+.para{position:absolute; right:10%;  top:200px; border:3px solid; width:50%; font-size:30px; margin:10px; background-color:#C0C0C0;}
+.para > p{margin:40px}
+.para > h1{margin:20px}
+.sep > p{position:absolute; right:10%; top:500px; font-size:30px; width:50%; border:3px solid;}
+.sep > p{padding-top:5px; padding-bottom:5px; border-bottom-style:dashed; border-top-style:dotted;}
